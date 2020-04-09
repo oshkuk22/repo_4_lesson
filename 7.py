@@ -19,5 +19,5 @@ for number in range(count_fact+1):
     else:
         print(f'{number}! = {reduce(lambda x, y: x*y, [x for x in factorial_numbers(number)])}')
 
-
+# pull requests
 
